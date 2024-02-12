@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TravelCompanion</string>
+    <string name="hello">Hey There,</string>
+    <string name="create_account">Create an account</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="email"> Email</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="or">or</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome back!</string>
+    <string name="username">Username</string>
+    <string name="home">Home</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="travel_plan">Travel Plan</string>
+    <string name="profile">Profile</string>
+
+</resources>
